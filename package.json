@@ -12,7 +12,9 @@
     "bootstrap": "^4.4.0",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.3.2",
-    "vue": "^2.6.10"
+    "vis": "^4.21.0-EOL",
+    "vue": "^2.6.10",
+    "vue2vis": "0.0.18"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
